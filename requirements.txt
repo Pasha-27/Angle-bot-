@@ -1,1 +1,6 @@
-
+streamlit
+requests
+google-api-python-client
+pandas
+openai==0.28
+youtube-transcript-api
