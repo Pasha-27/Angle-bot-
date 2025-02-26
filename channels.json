@@ -1,18 +1,30 @@
 {
-    "finance": [
-        {"channel_name": "Pranjal Kamra", "channel_id": "UCwAdQUuPT6laN-AQR17fe1g"},
-        {"channel_name": "Ankur Warikoo", "channel_id": "UCHYubNqqsWGTN2SF-y8jPmQ"},
-        {"channel_name": "Shashank Udupa", "channel_id": "UCdUEJABvX8XKu3HyDSczqhA"},
-        {"channel_name": "Finance with Sharan", "channel_id": "UCwVEhEzsjLym_u1he4XWFkg"},
-        {"channel_name": "Akshat Srivastava", "channel_id": "UCqW8jxh4tH1Z1sWPbkGWL4g"},
-        {"channel_name": "Labour Law Advisor", "channel_id": "UCVOTBwF0vnSxMRIbfSE_K_g"},
-        {"channel_name": "Udayan Adhye", "channel_id": "UCLQOtbB1COQwjcCEPB2pa8w"},
-        {"channel_name": "Sanjay Kathuria", "channel_id": "UCTMr5SnqHtCM2lMAI31gtFA"},
-        {"channel_name": "Financially Free", "channel_id": "UCkGjGT2B7LoDyL2T4pHsUqw"},
-        {"channel_name": "Powerup Money", "channel_id": "UC_eLanNOt5ZiKkZA2Fay8SA"},
-        {"channel_name": "Shankar Nath", "channel_id": "UCtnItzU7q_bA1eoEBjqcVrw"},
-        {"channel_name": "Wint Weath", "channel_id": "UCggPd3Vf9ooG2r4I_ZNWBzA"},
-        {"channel_name": "Invest Aaj for Kal", "channel_id": "UCWHCXSKASuSzao_pplQ7SPw"},
-        {"channel_name": "Rahul Jain", "channel_id": "UC2MU9phoTYy5sigZCkrvwiw"}
-    ]
+    "finance": {
+        "USA": {
+            "Graham Stephan": "UCV6KDgJskWaEckne5aPA0aQ",
+            "Mark Tilbury": "UCxgAuX3XZROujMmGphN_scA",
+            "Andrei Jikh": "UCGy7SkBjcIAgTiwkXEtPnYg",
+            "Humphrey Yang": "UCFBpVaKCC0ajGps1vf0AgBg",
+            "Brian Jung": "UCQglaVhGOBI0BR5S6IJnQPg",
+            "Nischa": "UCQpPo9BNwezg54N9hMFQp6Q",
+            "Newmoney": "Newmoney",
+            "I will teach you to be rich": "UC7ZddA__ewP3AtDefjl_tWg"
+        },
+        "India": {
+            "Pranjal Kamra": "UCwAdQUuPT6laN-AQR17fe1g",
+            "Ankur Warikoo": "UCHYubNqqsWGTN2SF-y8jPmQ",
+            "Shashank Udupa": "UCdUEJABvX8XKu3HyDSczqhA",
+            "Finance with Sharan": "UCwVEhEzsjLym_u1he4XWFkg",
+            "Akshat Srivastava": "UCqW8jxh4tH1Z1sWPbkGWL4g",
+            "Labour Law Advisor": "UCVOTBwF0vnSxMRIbfSE_K_g",
+            "Udayan Adhye": "UCLQOtbB1COQwjcCEPB2pa8w",
+            "Sanjay Kathuria": "UCTMr5SnqHtCM2lMAI31gtFA",
+            "Financially free": "UCkGjGT2B7LoDyL2T4pHsUqw",
+            "Powerup Money": "UC_eLanNOt5ZiKkZA2Fay8SA",
+            "Shankar Nath": "UCtnItzU7q_bA1eoEBjqcVrw",
+            "Wint Weath": "UCggPd3Vf9ooG2r4I_ZNWBzA",
+            "Invest aaj for Kal": "UCWHCXSKASuSzao_pplQ7SPw",
+            "Rahul Jain": "UC2MU9phoTYy5sigZCkrvwiw"
+        }
+    }
 }
