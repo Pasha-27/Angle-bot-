@@ -1,1 +1,18 @@
-
+{
+    "Finance": [
+        {"channel_name": "Pranjal Kamra", "channel_id": "UCwAdQUuPT6laN-AQR17fe1g"},
+        {"channel_name": "Ankur Warikoo", "channel_id": "UCHYubNqqsWGTN2SF-y8jPmQ"},
+        {"channel_name": "Shashank Udupa", "channel_id": "UCdUEJABvX8XKu3HyDSczqhA"},
+        {"channel_name": "Finance with Sharan", "channel_id": "UCwVEhEzsjLym_u1he4XWFkg"},
+        {"channel_name": "Akshat Srivastava", "channel_id": "UCqW8jxh4tH1Z1sWPbkGWL4g"},
+        {"channel_name": "Labour Law Advisor", "channel_id": "UCVOTBwF0vnSxMRIbfSE_K_g"},
+        {"channel_name": "Udayan Adhye", "channel_id": "UCLQOtbB1COQwjcCEPB2pa8w"},
+        {"channel_name": "Sanjay Kathuria", "channel_id": "UCTMr5SnqHtCM2lMAI31gtFA"},
+        {"channel_name": "Financially Free", "channel_id": "UCkGjGT2B7LoDyL2T4pHsUqw"},
+        {"channel_name": "Powerup Money", "channel_id": "UC_eLanNOt5ZiKkZA2Fay8SA"},
+        {"channel_name": "Shankar Nath", "channel_id": "UCtnItzU7q_bA1eoEBjqcVrw"},
+        {"channel_name": "Wint Weath", "channel_id": "UCggPd3Vf9ooG2r4I_ZNWBzA"},
+        {"channel_name": "Invest Aaj for Kal", "channel_id": "UCWHCXSKASuSzao_pplQ7SPw"},
+        {"channel_name": "Rahul Jain", "channel_id": "UC2MU9phoTYy5sigZCkrvwiw"}
+    ]
+}
